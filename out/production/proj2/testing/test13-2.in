@@ -1,0 +1,11 @@
+#* staff-ataxx --strict
+# Play a game as red
+seed 2983847
+block b2
+block c3
+block c4
+manual blue
+auto red
+#*move
+#*remote move/win
+quit

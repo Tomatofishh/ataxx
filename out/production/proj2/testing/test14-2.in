@@ -1,0 +1,8 @@
+#* staff-ataxx --strict
+seed 2983847
+auto blue
+block b2
+block c3
+block c4
+#*remote move/win
+quit
